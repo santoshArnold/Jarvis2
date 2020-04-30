@@ -1,7 +1,7 @@
 {
   "name": "THUNDER",
   "description": "Userbot created by a Anonymous_290  for any problems or support",
-  "logo": "https://telegra.ph/file/83b14fc4eee2b08ed1f79.jpg",
+  "logo": "https://telegra.ph/Thunder-04-30-2",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/prajaydevsys/Jarvis2/",
+  "repository": "https://github.com/santoshArnold/Jarvis2",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
